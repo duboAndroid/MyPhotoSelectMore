@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\build\\intermediates\\res\\merged\\debug\\layout\\imgfileadapter.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\src\\main\\res\\layout\\imgfileadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\build\\intermediates\\res\\merged\\debug\\layout\\imgfilelist.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\src\\main\\res\\layout\\imgfilelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\build\\intermediates\\res\\merged\\debug\\layout\\photogrally.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\src\\main\\res\\layout\\photogrally.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\build\\intermediates\\res\\merged\\debug\\layout\\imgsitem.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\src\\main\\res\\layout\\imgsitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Bob\\Desktop\\MyPhotoSelectMore\\choiseMorePictures\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
