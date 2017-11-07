@@ -46,4 +46,16 @@ public class MainActivity extends Activity {
 		intent.setClass(this,ImgFileListActivity.class);
 		startActivity(intent);
 	}
+
+	//打开手机相册的两种方法
+	/* Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
+                intent.addCategory(Intent.CATEGORY_OPENABLE);
+                intent.setType("image*//*");
+                startActivityForResult(intent, 0);*/
+
+	/*Intent i = new Intent(
+			Intent.ACTION_PICK,// 相册
+			android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+	i.setType("image*//*");
+	startActivityForResult(i, 0);*/
 }
